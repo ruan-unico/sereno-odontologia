@@ -1,0 +1,13 @@
+{
+  "name": "sereno-odontologia",
+  "version": "1.0.0",
+  "description": "Landing page de uma clínica odontológica fictícia, feita com HTML, CSS e JavaScript puros.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "dev": "npx --yes serve ."
+  },
+  "author": "Ruan Souza",
+  "license": "MIT"
+}
